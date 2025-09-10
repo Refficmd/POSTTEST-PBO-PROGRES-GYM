@@ -1,4 +1,9 @@
 # POSTTEST-PBO-PROGRES-GYM
+Program ini adalah aplikasi sederhana berbasis Java yang digunakan untuk manajemen progress gym. Data progress latihan dicatat menggunakan ArrayList dalam bentuk array string, dengan atribut berupa ID progress, tanggal latihan, tipe gym, gerakan, otot yang dilatih, serta durasi latihan.
+
+Aplikasi ini menyediakan menu utama yang terdiri dari fitur Create, Read, Update, Delete, dan Keluar. Pada menu Create, pengguna dapat menambahkan progress latihan baru yang otomatis diberikan ID unik. Menu Read memungkinkan pengguna melihat daftar progress yang sudah tersimpan dengan opsi untuk kembali ke menu utama. Menu Update digunakan untuk memperbarui progress tertentu berdasarkan ID, sedangkan menu Delete memungkinkan pengguna menghapus progress yang dipilih. Program berjalan dalam perulangan sehingga tidak akan berhenti kecuali pengguna memilih menu keluar.
+
+Dengan penerapan ArrayList, percabangan, input pengguna, dan perulangan, program ini menjadi contoh implementasi dasar konsep pemrograman berorientasi objek yang sederhana namun praktis untuk pencatatan progress latihan gym.
 
 ## MENU UTAMA
 <img width="292" height="168" alt="image" src="https://github.com/user-attachments/assets/183f7b8c-ea7f-44f9-a8e6-d672c8db1086" />
